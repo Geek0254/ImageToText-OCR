@@ -1,4 +1,4 @@
-                        Description
+##Description
 The code above is a simple Image to Text OCR (Optical Character Recognition) Application.
 I built it using Python with several libraries including cv2, pytesseract, and tkinter.
 
@@ -9,7 +9,7 @@ The selected image is then passed to pytesseract which performs OCR on the image
 The recognized text is then displayed to the user through a message box. 
 The "Copy Text" button calls the select_image function and then copies the recognized text to the clipboard.
 
-                        Running The Application Requirements
+##Running The Application Requirements
 You need to install tesseract and add its location to your system's PATH environment variable.
 You can download and install the tesseract OCR engine from the following URL: https://github.com/tesseract-ocr/tessdoc/blob/main/Installation.md
 
